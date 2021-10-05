@@ -5,6 +5,3 @@
 2.获取cookie<br r/>
 3.运行VideoDownload.java<br r/>
 
-# 捐献<br r/>
-
-![Alt text](xxx.png)
